@@ -1,9 +1,11 @@
-package br.com.delogic.loremipsumjpa;
+package br.com.delogic.jpasy.populator;
 
 import java.util.LinkedList;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import br.com.delogic.jpasy.populator.AccessType;
 
 public class AccessTypeTest extends Assert {
 

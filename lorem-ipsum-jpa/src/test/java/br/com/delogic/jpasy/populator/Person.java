@@ -1,4 +1,4 @@
-package br.com.delogic.loremipsumjpa;
+package br.com.delogic.jpasy.populator;
 
 import javax.persistence.Column;
 import javax.persistence.Id;

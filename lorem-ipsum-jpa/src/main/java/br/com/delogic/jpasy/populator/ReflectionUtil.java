@@ -1,4 +1,4 @@
-package br.com.delogic.loremipsumjpa;
+package br.com.delogic.jpasy.populator;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

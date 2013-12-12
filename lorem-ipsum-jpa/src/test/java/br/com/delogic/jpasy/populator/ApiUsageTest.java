@@ -1,8 +1,13 @@
-package br.com.delogic.loremipsumjpa;
+package br.com.delogic.jpasy.populator;
 
 import java.lang.reflect.Method;
 
 import org.junit.Test;
+
+import br.com.delogic.jpasy.populator.AttributeConfiguration;
+import br.com.delogic.jpasy.populator.AttributeGenerator;
+import br.com.delogic.jpasy.populator.AttributeGeneratorVarargs;
+import br.com.delogic.jpasy.populator.PopulatorService;
 
 public class ApiUsageTest {
 

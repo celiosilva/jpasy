@@ -1,4 +1,4 @@
-package br.com.delogic.loremipsumjpa;
+package br.com.delogic.jpasy.populator;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -6,6 +6,8 @@ import java.util.Date;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import br.com.delogic.jpasy.populator.ReflectionUtil;
 
 public class ReflectionUtilTest extends Assert {
 

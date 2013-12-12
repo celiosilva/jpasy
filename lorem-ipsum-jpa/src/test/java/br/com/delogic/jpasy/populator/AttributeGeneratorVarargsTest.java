@@ -1,7 +1,11 @@
-package br.com.delogic.loremipsumjpa;
+package br.com.delogic.jpasy.populator;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import br.com.delogic.jpasy.populator.AccessType;
+import br.com.delogic.jpasy.populator.AttributeGenerator;
+import br.com.delogic.jpasy.populator.AttributeGeneratorVarargs;
 
 public class AttributeGeneratorVarargsTest extends Assert {
 
